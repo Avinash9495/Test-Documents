@@ -19,6 +19,6 @@ I have successfully tested features of this web application and the test cases f
 
 ### _API Test Documents for Restful Booker.
 
- Restful-booker an API that you can use to learn more about API Testing or try out API testing tools against. Restful-booker is a Create Read Update Delete Web API that comes with authentication features and loaded with a bunch of bugs for you to explore. The API comes pre-loaded with 10 records for you to work with and resets itself every 10 minutes back to that default state. Restful-booker also comes with detailed API documentation to help get you started with your API testing straight away.
+ Restful-booker an API that you can use to learn more about API Testing or try out API testing tools against. Restful-booker is a Create Read Update Delete Web API that comes with authentication features and loaded with a bunch of bugs for you to explore. The API comes pre-loaded with 10 records for you to work with and resets itself every 10 minutes back to that default state. Restful-booker also comes with detailed API documentation to help get you started with your API testing straight away. https://restful-booker.herokuapp.com/apidoc/index.html
  
 - The API test case document and test report document are present in this repository
